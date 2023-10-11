@@ -3,8 +3,8 @@ import subprocess
 # Input MP3 file
 input_file = 'file.mp3'  # Replace with your input MP3 file
 
-# Define the desired segment duration (59 minutes) in seconds
-segment_duration = 59 * 60
+# Define the desired segment duration (29 minutes) in seconds
+segment_duration = 29 * 60
 
 # Define the output pattern for segment files
 output_pattern = 'segment_%03d.mp3'
