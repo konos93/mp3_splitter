@@ -1,5 +1,5 @@
 # mp3_splitter
-mp3_splitter at 59 min for https://podcast.adobe.com/enhance
+mp3_splitter at 29 min for https://podcast.adobe.com/enhance
 
 use headphones to understand the difference https://www.youtube.com/watch?v=UdozpQJbXZY
 
